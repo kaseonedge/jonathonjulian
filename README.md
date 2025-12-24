@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jonathon+%F0%9F%91%8B;Building+the+Future+of+AI+Engineering;136K+Lines+of+Rust+%F0%9F%A6%80;Multi-Agent+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jonathon+%F0%9F%91%8B;Building+the+Future+of+AI+Engineering;Multi-Agent+Systems+Architect;Rust+%2B+Kubernetes+%2B+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ I architect **multi-agent AI systems that ship production code**. My work focuse
 ```
 🔥 Currently building: Cognitive Task Orchestrator (CTO)
    └── 13 AI agents collaborating autonomously
-   └── 136,000+ lines of Rust
+   └── Built entirely in Rust for performance & reliability
    └── Self-healing infrastructure that fixes its own failures
 ```
 
